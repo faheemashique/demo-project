@@ -1,4 +1,4 @@
-HelloWorld...1234
+HelloWorld...123
 ==========
 
 A simple Java application that can be compiled into a .jar file using Maven.
